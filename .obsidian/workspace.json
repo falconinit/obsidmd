@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "50b54363603ebd93",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b11ade5e27b3545",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "75880a5347e89645",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Committing changes or adding files to GitHub.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "52cbb0faae2507ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b3281c6b1dade5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab5a271de62b0014",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "bd13b947fcad5b61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b0b60d9d156386f6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8291e8ad810637ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ee52b45d88a180a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2515b7282a19d7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Committing changes or adding files to GitHub.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "18bf5e0e9a85720e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Committing changes or adding files to GitHub.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "af0e5895fae4df94",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "74c9c8e25d15725a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Committing changes or adding files to GitHub.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "75880a5347e89645",
+  "lastOpenFiles": [
+    "Welcome.md",
+    "Committing changes or adding files to GitHub.md",
+    "README.md"
+  ]
+}
