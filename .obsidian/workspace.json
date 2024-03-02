@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "876107b62c2f0e30",
+        "id": "be7a258c88895883",
         "type": "tabs",
         "children": [
           {
-            "id": "53a4cec422a091c7",
+            "id": "416f696e1866177c",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,11 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53a4cec422a091c7",
+  "active": "416f696e1866177c",
   "lastOpenFiles": [
     "Committing changes or adding files to GitHub.md",
     "README.md",
-    "New folder",
-    "Welcome.md"
+    "Welcome.md",
+    "New folder"
   ]
 }
